@@ -26,8 +26,7 @@ const friend3 = {
 people.friends.push(friend1, friend2, friend3);
 console.log("Question 1:", people);
 
-
-// 2. Change the array into the required array
+// 2. Manipulate an array of mixed data types
 const theList = [
   "Laurence",
   "Svekis",

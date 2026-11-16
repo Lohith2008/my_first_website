@@ -27,7 +27,7 @@ people.friends.push(friend1, friend2, friend3);
 console.log("Question 1:", people);
 
 
-// 2. Change the array into the required array
+// 2. Change the array into the required array and store it in a variable called theList
 const theList = [
   "Laurence",
   "Svekis",
